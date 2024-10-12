@@ -14,9 +14,9 @@ Ce projet est une application en Go qui génère un labyrinthe procédural et pr
 
 ## Prérequis
 
-- [Go](https://golang.org/doc/install) (version 1.18+ recommandée)
-- [Raylib Go](https://github.com/gen2brain/raylib-go) pour l'interface graphique.
+- [Go](https://golang.org/doc/install) (version 1.23.1+ recommandée)
 - Make (pour la commande `make all`).
+- Un compilateur gcc 64 bits.
 
 ## Installation
 
